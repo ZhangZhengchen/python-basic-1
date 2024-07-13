@@ -7,4 +7,6 @@ def print_a_name():
     # add your code here
     pass
 
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., print_a_name()) to avoid issues during automated testing.
 print_a_name()

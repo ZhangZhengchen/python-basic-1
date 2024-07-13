@@ -10,5 +10,6 @@ def salary_game():
     # add your code here
     
 
-
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., salary_game()) to avoid issues during automated testing.
 salary_game()

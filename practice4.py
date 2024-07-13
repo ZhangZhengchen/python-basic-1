@@ -26,6 +26,8 @@ def logic_operations(binary1,binary2):
     b = 3  # Binary: 011
     print(a,b,a ^ b)  # 6 (Binary: 110)
 
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., logic_operations(binary1,binary2)) to avoid issues during automated testing.
 binary1 = True
 binary2 = True
 logic_operations(binary1,binary2)

@@ -28,6 +28,8 @@ def mathematical_operations(num1,num2):
     # add your code here
     pass
 
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., mathematical_operations(num1,num2)) to avoid issues during automated testing.
 num1 = 2024
 num2 = 10.0
 mathematical_operations(num1,num2)

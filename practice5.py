@@ -17,5 +17,7 @@ def ASCII_codes(input_char):
     ascii_code = ord(input_char)
     # add your code here
 
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., ASCII_codes(input_char)) to avoid issues during automated testing.
 input_char = 'a'
 ASCII_codes(input_char)

@@ -7,4 +7,6 @@ def age_add_one():
     # add your code here
     pass
 
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., age_add_one()) to avoid issues during automated testing.
 age_add_one()

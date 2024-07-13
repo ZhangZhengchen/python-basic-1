@@ -18,5 +18,7 @@ def variant_type(input_num):
     # add your code here
     pass
 
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., variant_type(input_num)) to avoid issues during automated testing.
 input_num = 10
 variant_type(input_num)

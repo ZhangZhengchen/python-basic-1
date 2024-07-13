@@ -16,4 +16,6 @@ def print_practice():
     # add your code here
     pass
 
+# Note: When submitting your code, please comment out the line that runs the function 
+# (e.g., print_practice()) to avoid issues during automated testing.
 print_practice()
